@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-HEADER
-
-### I'm Software Engeneer
+### I'm Flutter Developer
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-<ff69b4>?style=flat&logo=flutter&logoColor=47C5FB)
