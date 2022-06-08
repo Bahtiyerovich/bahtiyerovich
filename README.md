@@ -3,7 +3,7 @@
 ## I'm Flutter Developer
 
 ### Languages and Tools:
-![GooglePlay](https://img.shields.io/badge/-GooglePlay-7A7563?style=flat&logo=GoolePlay&logoColor=000000)
+
 
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
