@@ -16,4 +16,4 @@
 
 ### Follow Me:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-004129?style=flat&logo=Instagram&logoColor=b4068e)](https://www.instagram.com/senseibahtiyarovich/)
+[![Instagram](https://img.shields.io/badge/-Instagram-7A7563?style=flat&logo=Instagram&logoColor=b4068e)](https://www.instagram.com/senseibahtiyarovich/)
